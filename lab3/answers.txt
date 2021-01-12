@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: This sort is consistantly fastest for sorted arrays, much slower on random and reversed arrays. Bubble Sorts omega is Omega(1).
+
+sort2 uses: Merge Sort
+
+How do you know?: Constantly the fastest of the 3 sorts, merge has the smallest big O, O(n log n).
+
+sort3 uses: Selection Sort
+
+How do you know?: Process of elmination
